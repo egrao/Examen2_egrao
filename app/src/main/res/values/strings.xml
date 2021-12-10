@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Entrenaments</string>
+    <string name="primero"> "5 Flexions a terra\n" +
+                            "10 Inclinacions d'una cama\n" +
+                            "15 Flexions dorsals\n"</string>
+    <string name="segundo">"Agonia Màxima",
+                    "100 Flexions inclinades\n" +
+                            "100 Flexions\n" +
+                            "100 Abdominals\n" +
+                            "100 Esquats\n"</string>
+    <string name="tercero">"5 Dorsals\n" +
+                            "10 Flexions\n" +
+                            "15 Esquats\n"</string>
+    <string name="cuarto">"500 Metres màxima velocitat\n" +
+                            "21 Llançaments de pes \n" +
+                            "21 Flexions\n"</string>
+    <string name="textview">TextView</string>
+</resources>
